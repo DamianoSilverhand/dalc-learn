@@ -3,7 +3,7 @@ import { img01, img02, img03, img04, img05, img06 } from '../images';
 
 function Carousel(){
 	return(
-		    <div className="container">
+		    <div className="container-fluid">
         <div className="row">
           <div className="col mb-4 mb-lg-0">          
             <div id="carouselExampleIndicators"  className="carousel slide" data-ride="carousel">

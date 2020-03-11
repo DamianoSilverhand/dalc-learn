@@ -12,7 +12,7 @@ function Home() {
           <div className="card-body">
             <h5 className="card-title">Social Enterprise and Welfare</h5>
             <p className="card-text">Get full certification for life in Zero G!</p>
-            <a href="lesson-1.html"  className="btn btn-primary stretched-link" >Learn More</a>
+            <a href="#"  className="btn btn-primary stretched-link" >Learn More</a>
           </div>
         </div>
       </div>
@@ -22,7 +22,7 @@ function Home() {
           <div className="card-body">
             <h5 className="card-title">Civic Engagement</h5>
             <p className="card-text">Our instructors are out of this world!</p>
-            <a href="lesson-1.html"  className="btn btn-primary stretched-link" >L
+            <a href="#"  className="btn btn-primary stretched-link" >L
 earn More</a>
           </div>
         </div>
@@ -33,7 +33,7 @@ earn More</a>
           <div className="card-body">
             <h5 className="card-title">Entrepreneurship and Life Skills</h5>
             <p className="card-text">Reach for the Stars with your career!</p>
-           <a href="lesson-1.html"  className="btn btn-primary stretched-link" >Learn More</a>
+           <a href="#"  className="btn btn-primary stretched-link" >Learn More</a>
           </div>
         </div>
       </div>
