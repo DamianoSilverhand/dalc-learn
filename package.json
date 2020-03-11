@@ -1,4 +1,5 @@
 {
+ "homepage": "http://damianosilverhand.github.io/dalc-learn"
   "name": "dalc-learn",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +24,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "onandroid": "node node_modules/react-scripts/scripts/start.js"
+    "onandroid": "node node_modules/react-scripts/scripts/start.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -39,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
