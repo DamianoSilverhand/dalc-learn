@@ -11,7 +11,7 @@ function Home() {
         <img className="card-img-top" src={enterprise} alt="social enterprise" />
           <div className="card-body">
             <h5 className="card-title">Social Enterprise and Welfare</h5>
-            <p className="card-text">Get full certification for life in Zero G!</p>
+            <p className="card-text">We aim to develop sustainable Social Enterprises</p>
             <a href="#"  className="btn btn-primary stretched-link" >Learn More</a>
           </div>
         </div>
@@ -21,9 +21,8 @@ function Home() {
         <img className="card-img-top" src={civic} alt="civic engagement" />
           <div className="card-body">
             <h5 className="card-title">Civic Engagement</h5>
-            <p className="card-text">Our instructors are out of this world!</p>
-            <a href="#"  className="btn btn-primary stretched-link" >L
-earn More</a>
+            <p className="card-text">Civic Engagement as a means of alternative Information desimination and empowerment.</p>
+            <a href="#"  className="btn btn-primary stretched-link" >Learn More</a>
           </div>
         </div>
       </div>
@@ -32,7 +31,7 @@ earn More</a>
         <img className="card-img-top" src={skills} alt="Life Skills" />
           <div className="card-body">
             <h5 className="card-title">Entrepreneurship and Life Skills</h5>
-            <p className="card-text">Reach for the Stars with your career!</p>
+            <p className="card-text">Promoting innovation and entrepreneurship </p>
            <a href="#"  className="btn btn-primary stretched-link" >Learn More</a>
           </div>
         </div>
