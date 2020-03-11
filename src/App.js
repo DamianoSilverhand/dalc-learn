@@ -6,6 +6,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer.js';
 import Home from './pages/Home.js';
+import Carousel from './components/Carousel.js';
 
 library.add(fab, faCheckSquare, faCoffee);
 
@@ -13,6 +14,7 @@ function App() {
   return (
     <div className="App">
 	<Navbar/>
+	<Carousel/>
 	<Home/>
 	<Footer/>
     </div>
